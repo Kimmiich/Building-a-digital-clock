@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Chonburi', cursive
+}
+main {
+    background-color: rgb(230, 190, 103);
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+    padding: 7px;
+}
